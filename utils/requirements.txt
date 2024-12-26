@@ -1,0 +1,6 @@
+aiogram
+requests
+psutil
+aiosqlite
+fluent.runtime
+g4f[all]
